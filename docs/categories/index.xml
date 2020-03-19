@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DataLabrynth</title>
-    <link>http://datalabrynth.com/categories/</link>
+    <link>https://datalabrynth.com/categories/</link>
     <description>Recent content in Categories on DataLabrynth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://datalabrynth.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datalabrynth.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

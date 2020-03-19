@@ -1,4 +1,4 @@
-baseURL = "http://datalabrynth.com/"
+baseURL = "https://datalabrynth.com/"
 languageCode = "en-us"
 title = "DataLabrynth"
 theme = "ananke"
