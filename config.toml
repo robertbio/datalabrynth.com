@@ -1,0 +1,5 @@
+baseURL = "http://datalabrynth.com/"
+languageCode = "en-us"
+title = "DataLabrynth"
+theme = "ananke"
+publishdir = "./docs/"
